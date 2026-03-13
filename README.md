@@ -1,1 +1,0 @@
-# cdpc-training
